@@ -1,1 +1,1 @@
-Projeto prático do curso de Lógica de Programação da linguagem JavaScript da Alura.
+Projeto prático do curso de Lógica de Programação em JavaScript da plataforma Alura.
